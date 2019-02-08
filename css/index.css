@@ -40,13 +40,24 @@
   transition: transform .2s;
 }
 .title{
-  font-style: italic;
-  font-family: sans-serif;
+  font-style: normal;
   color: #d19321;
 }
 .intro{
   width: 100%;
   text-align: center;
+}
+.warning{
+  color: #d19321;
+  font-size: 20px;
+}
+.name{
+  color: #d19321;
+  font-size: 20px;
+}
+.label{
+  color:#e29404;
+  font-weight: bold;
 }
 ::-webkit-scrollbar{
   width:10px;
