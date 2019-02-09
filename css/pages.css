@@ -11,3 +11,22 @@
   top:0px;
   bottom:0px;
 }
+.innerpage{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+.outerpicture{
+  height: auto;
+  width: auto;
+  margin-left:300px;
+  margin-top: 50px;
+}
+.picture:hover{
+  transform : scale(0.7);
+}
+.picture{
+  transition: transform .2s;
+  width: auto;
+  height:auto;
+}
