@@ -67,6 +67,16 @@
 .profilepicture{
   border-radius: 100%;
   overflow: hidden;
+  margin-left:40px;
+}
+.actprofpic:hover{
+  transform: scale(0.7);
+}
+.clickinstruction{
+  color : #e29404;
+}
+.actprofpic{
+  transition: transform .2s;
 }
 ::-webkit-scrollbar{
   width:10px;
