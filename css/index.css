@@ -59,6 +59,14 @@
   color:#e29404;
   font-weight: bold;
 }
+.personalinfo{
+  display:flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.profilepicture{
+  border-radius: 100%;
+}
 ::-webkit-scrollbar{
   width:10px;
   height: 5px;
