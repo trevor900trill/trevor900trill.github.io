@@ -66,6 +66,7 @@
 }
 .profilepicture{
   border-radius: 100%;
+  overflow: hidden;
 }
 ::-webkit-scrollbar{
   width:10px;
