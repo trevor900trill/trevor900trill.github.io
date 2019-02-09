@@ -19,7 +19,7 @@
 .outerpicture{
   height: auto;
   width: auto;
-  margin-left:300px;
+  margin-left:500px;
   margin-top: 50px;
 }
 .picture:hover{
@@ -29,4 +29,35 @@
   transition: transform .2s;
   width: auto;
   height:auto;
+}
+.imagelogo{
+  background-color: white;
+  width: 280px;
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.information{
+  width: 480px;
+  text-align: center;
+}
+p{
+  color:#e29404;
+}
+a{
+  text-decoration-color:orange;
+}
+::-webkit-scrollbar{
+  width:10px;
+  height: 5px;
+}
+::-webkit-scrollbar-track{
+  background-color:#5b5b5a;
+}
+::-webkit-scrollbar-thumb:hover{
+  background-color: #ffb123;
+}
+::-webkit-scrollbar-thumb{
+  background-color: #d19321;
 }
