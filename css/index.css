@@ -74,6 +74,7 @@
 }
 .clickinstruction{
   color : #e29404;
+  margin-left:15px;
 }
 .actprofpic{
   transition: transform .2s;
